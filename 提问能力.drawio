@@ -28,6 +28,9 @@
         <mxCell id="aVgd7VtQALM5ovWHZy89-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="表层" vertex="1">
           <mxGeometry height="30" width="60" x="360" y="190" as="geometry" />
         </mxCell>
+        <mxCell id="x7tyPLbEpmz6y9zsuPEy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="提问能力：需要先广度，再深度，类似挖井，如果要挖得深，井口要先挖大；提问三个层次：how、what、why，行业有个说法连续问5个why，通过现象看本质" vertex="1">
+          <mxGeometry height="30" width="500" x="150" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
